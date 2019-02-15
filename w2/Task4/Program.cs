@@ -23,4 +23,3 @@ namespace Task_4
         }
     }
 }
-© 2019 GitHub, Inc.
